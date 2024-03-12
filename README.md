@@ -9,8 +9,8 @@
 1. then open for example(screen1.html) and you wil see the project run in the browser
 1. if you want to see other screens (Screen2 and screen3) as we make in screen1
 ## screens of the project
-![alt text](https://github.com/mosamircs/survey-pages/blob/master/screenshoots/screen1.png?raw=true)
-![alt text](https://github.com/mosamircs/survey-pages/blob/master/screenshoots/screen1.1.png?raw=true)
-![alt text](https://github.com/mosamircs/survey-pages/blob/master/screenshoots/screen2.1.png?raw=true)
-![alt text](https://github.com/mosamircs/survey-pages/blob/master/screenshoots/screen2.2.png?raw=true)
-![alt text](https://github.com/mosamircs/survey-pages/blob/master/screenshoots/screen3.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/survey-pages/blob/main/screenshoots/screen1.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/survey-pages/blob/main/screenshoots/screen1.1.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/survey-pages/blob/main/screenshoots/screen2.1.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/survey-pages/blob/main/screenshoots/screen2.2.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/survey-pages/blob/main/screenshoots/screen3.png?raw=true)
